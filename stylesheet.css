@@ -1,0 +1,76 @@
+.title {
+    color: red;
+    /* background-color:aqua; */
+    /* font-size: 100px; */
+}
+
+.sub-title {
+  color:yellow;
+}
+
+
+  .msg {
+    background-color:gray; 
+    /* background-image: url(image\DSC_0018.JPG); */
+    /* background-size:cover; */
+    height: 400px;
+    width: 100%;
+  }
+
+  .msg .picture {
+    height: 200px;
+    width: 300px;
+  }
+
+ .boxs {
+  /* float: left; */
+  width: 100%;
+  /* position:relative; */
+} 
+
+.box {
+  /* display: inline-box; */
+  float: left; 
+  width: 25%;
+  height: 100px; 
+  /* position: relative; */
+}
+
+.red {
+  background-color: red;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.green {
+  background-color: green;
+}
+
+.yellow {
+  background-color: yellow;
+}
+
+.box-contents {
+  display: inline-block;
+  width: 100%;
+  /* position: absolute; 
+  top: 0px; */
+  Vertical-align: bottom;    
+  text-align: center;
+  color: black;
+  line-height: 20px; 
+  font-size: 20px;
+ 
+}
+
+.clear {
+  clear: left;
+}
+
+/*
+.box p {
+  font-size: 40px;
+}
+*/
